@@ -83,9 +83,7 @@ describe('LoanApplication', () => {
   `);
 
   expect(el).shadowDom.to.be.accessible();
-});
-
-  
+});  
 });
 
 

@@ -19,7 +19,6 @@ describe('Success screen ', () => {
     expect(myFunctionStub).to.have.callCount(1);
 
   });
-  
 });
 
 describe('error screen', () => {

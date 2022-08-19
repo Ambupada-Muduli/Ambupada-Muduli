@@ -104,8 +104,4 @@ describe('Basic details', () => {
      }, 2000);
   });
 
-  
-
-
-
 });

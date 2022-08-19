@@ -18,6 +18,7 @@ describe('customer details', () => {
     el.shadowRoot.querySelector('lion-button').click();
     expect(myFunctionStub).to.have.callCount(1);
   });
-
+  
+  
   
 });
